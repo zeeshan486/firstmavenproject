@@ -1,1 +1,4 @@
 com\first\maven\firstmavenproject\AppTest.class
+filehandling\Excelhandling.class
+webhandling\Browserfactory.class
+webhandling\Capturescreen.class
