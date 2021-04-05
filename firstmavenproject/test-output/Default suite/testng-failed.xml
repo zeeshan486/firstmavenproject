@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.first.maven.firstmavenproject.Main">
+      <class name="com.first.maven.firstmavenproject.AppTest">
         <methods>
           <include name="method1"/>
         </methods>
-      </class> <!-- com.first.maven.firstmavenproject.Main -->
+      </class> <!-- com.first.maven.firstmavenproject.AppTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

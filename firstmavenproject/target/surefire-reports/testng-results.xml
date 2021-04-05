@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="26144" started-at="2021-04-02T18:59:18 IST" finished-at="2021-04-02T18:59:44 IST">
+  <suite name="com.first.maven.firstmavenproject.AppTest" duration-ms="54418" started-at="2021-04-05T17:43:40 IST" finished-at="2021-04-05T17:44:35 IST">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="26144" started-at="2021-04-02T18:59:18 IST" finished-at="2021-04-02T18:59:44 IST">
+    <test name="Command line test" duration-ms="54418" started-at="2021-04-05T17:43:40 IST" finished-at="2021-04-05T17:44:35 IST">
       <class name="com.first.maven.firstmavenproject.AppTest">
-        <test-method status="PASS" signature="method1()[pri:0, instance:com.first.maven.firstmavenproject.AppTest@5bcab519]" name="method1" duration-ms="26070" started-at="2021-04-02T18:59:18 IST" finished-at="2021-04-02T18:59:44 IST">
+        <test-method status="PASS" signature="method1()[pri:0, instance:com.first.maven.firstmavenproject.AppTest@754ba872]" name="method1" duration-ms="54131" started-at="2021-04-05T17:43:40 IST" finished-at="2021-04-05T17:44:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- method1 -->
       </class> <!-- com.first.maven.firstmavenproject.AppTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.first.maven.firstmavenproject.AppTest -->
 </testng-results>

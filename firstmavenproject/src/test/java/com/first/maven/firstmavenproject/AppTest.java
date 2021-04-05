@@ -19,8 +19,8 @@ public class AppTest
        System.out.println("now it is ok");
        System.out.println("modified after pushing to github");
       WebDriverManager.firefoxdriver().setup();
-      FirefoxOptions option = new FirefoxOptions();
-      FirefoxDriver driver = new FirefoxDriver();  
+     // FirefoxOptions option = new FirefoxOptions();
+      	FirefoxDriver driver = new FirefoxDriver();  
        driver.get("https://www.google.com/?gws_rd=ssl");
        Thread.sleep(3000);
        driver.close();
